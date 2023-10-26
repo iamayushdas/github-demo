@@ -1,4 +1,0 @@
-This is the feature branch.
-Line 1 (feature)
-Line 2 (feature)
-Line 3 (feature)
